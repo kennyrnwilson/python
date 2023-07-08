@@ -7,4 +7,10 @@
 
 
 ## Cheat Sheets
+### Installation
 * [Installation Cheet Sheet](./cheatsheets/installation.md)
+### Language Core
+ * [Functions, Yield, Generator](./cheatsheets/language-core/functions-checkpoint.ipynb)
+ * [Tuple](./cheatsheets/language-core/tuple.ipynb)
+ * [List](./cheatsheets/language-core/list.ipynb)
+ * [Dictionary](./cheatsheets/language-core/dictionary.ipynb)
